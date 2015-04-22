@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Heart Rate</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="ageResource">20</string>
+    <string name="maxTitle">Max Heart Rate:</string>
+    <string name="targetTitle">Target Heart Rate:</string>
+    <string name="ageTitle">Age:</string>
+    <string name="appTitle">Target Heart Rate Calculator</string>
+</resources>
